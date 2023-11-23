@@ -18,6 +18,15 @@
 
 <img src="https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44)https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44" alt="Texto Alternativo"></img>
 
+<p>Digite o número que deseja somar e aperte enter, em seguida será exibido a soma</p>
+
+
+<img src="https://github.com/FranGJ7/test-escribo-backend/assets/97806169/359e63ac-baa5-4e5e-a1e8-0387f099952f
+" alt="Texto Alternativo"></img>
+
+
+
+
 
 
 
