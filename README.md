@@ -15,7 +15,9 @@
 <p>3-Abra o terminal e execute o script com o comando node: node index.js</p>
 
 <p>Ao iniciar será exibido a seguinte tela:</p>
-![Screenshot from 2023-11-22 22-31-41](https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44)
+
+<img src="[URL_da_Imagem](https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44)https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44" alt="Texto Alternativo">
+
 
 
 
