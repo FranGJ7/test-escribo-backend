@@ -16,7 +16,7 @@
 
 <p>Ao iniciar será exibido a seguinte tela:</p>
 
-<img src="[URL_da_Imagem](https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44)https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44" alt="Texto Alternativo"></img>
+<img src="https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44)https://github.com/FranGJ7/test-escribo-backend/assets/97806169/188a8e47-9023-449b-9347-d87128fe3c44" alt="Texto Alternativo"></img>
 
 
 
