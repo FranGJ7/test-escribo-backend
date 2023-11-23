@@ -12,7 +12,7 @@
 
 <p>2-Navegue até o diretório do script clonado</p> 
 
-<p>3-Abra o terminal e execute o script: node index.js</p>
+<p>3-Abra o terminal e execute o script com o comando node: node index.js</p>
 
 
 
