@@ -8,14 +8,12 @@
 
 <h3>Instalação e Execução</h3>
 
-<p>1-Clone este repositório:</p>
-
-<p>git clone https://github.com/FranGJ7/test-escribo-backend.git</p>
+<p>1-Clone este repositório: git clone https://github.com/FranGJ7/test-escribo-backend.git</p>
 
 <p>2-Navegue até o diretório do script:</p>
 
-<p>3-Abra o terminal e execute o script:</p>
- <p>node index.js</p>
+<p>3-Abra o terminal e execute o script: node index.js</p>
+
 
 
 
