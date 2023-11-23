@@ -33,7 +33,7 @@ const myConsole = (number) => {
 
 const otherSum = () => {
 
-  rl.question("\nDeseja fazer mais uma soma? \n \nDigite o numero 1-Sim ou 2-Não:", (answer) => {
+  rl.question("\nDeseja fazer mais uma soma? \n \nDigite o número 1-Sim ou 2-Não:", (answer) => {
     const number = parseInt(answer);
     switch (number) {
       case 1:
