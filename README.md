@@ -10,7 +10,7 @@
 
 <p>1-Clone este repositório: git clone https://github.com/FranGJ7/test-escribo-backend.git</p>
 
-<p>2-Navegue até o diretório do script clonado</p>
+<p>2-Navegue até o diretório do script clonado</p> 
 
 <p>3-Abra o terminal e execute o script: node index.js</p>
 
